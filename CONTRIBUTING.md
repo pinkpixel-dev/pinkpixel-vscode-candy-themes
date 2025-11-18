@@ -1,6 +1,6 @@
-# 🤝 Contributing to PinkPixel VSCode Themes
+# 🤝 Contributing to Pink Pixel VSCode Candy Themes
 
-First off, **thank you** for considering contributing to PinkPixel VSCode Themes! 💖 Every contribution, whether it's a bug report, feature suggestion, or code improvement, helps make these themes better for everyone.
+First off, **thank you** for considering contributing to PinkPixel VSCode Candy Themes! 💖 Every contribution, whether it's a bug report, feature suggestion, or code improvement, helps make these themes better for everyone.
 
 ---
 
@@ -26,13 +26,13 @@ This project and everyone participating in it is governed by respect, kindness, 
 - 🎯 Focus on what's best for the community
 - 🚫 Avoid harassment, discrimination, or toxic behavior
 
-Let's make this a welcoming space for developers of all skill levels and backgrounds! 🌟
+Let's make this a welcoming space for developers of all skill levels and backgrounds! ✨
 
 ---
 
 ## 🎯 How Can I Contribute?
 
-There are many ways to contribute to PinkPixel VSCode Themes:
+There are many ways to contribute to Pink Pixel VSCode Candy Themes:
 
 ### 🐛 **Report Bugs**
 Found a color that looks off? A UI element that isn't themed? Let us know!
@@ -137,8 +137,8 @@ We love new ideas! Here's how to suggest features effectively:
 
 1. **Fork and clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/pinkpixel-vscode-themes.git
-   cd pinkpixel-vscode-themes
+   git clone https://github.com/YOUR-USERNAME/pinkpixel-vscode-candy-themes.git
+   cd pinkpixel-vscode-candy-themes
    ```
 
 2. **Open in VS Code**
@@ -315,7 +315,6 @@ Use descriptive hex values without variables. While this can feel repetitive, it
 
 - **GitHub Issues:** Best for bugs and feature requests
 - **GitHub Discussions:** Great for questions and ideas
-- **Discord:** @sizzlebop for real-time chat
 - **Email:** admin@pinkpixel.dev for private inquiries
 
 ### Recognition
@@ -332,7 +331,7 @@ All contributors will be:
 - [VS Code Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
 - [VS Code Extension API](https://code.visualstudio.com/api)
 - [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
-- [Pink Pixel Brand Guidelines](https://pinkpixel.dev)
+- [Pink Pixel Brand](https://pinkpixel.dev)
 
 ---
 
@@ -340,7 +339,7 @@ All contributors will be:
 
 Your contributions help make coding more colorful and enjoyable for developers worldwide. Whether you're fixing a tiny color inconsistency or creating an entirely new theme variant, every contribution matters.
 
-**Thank you for being part of the PinkPixel community!** 🌈
+**Thank you for being part of the Pink Pixel community!** 🌈
 
 ---
 

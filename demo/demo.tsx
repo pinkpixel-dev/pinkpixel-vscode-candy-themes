@@ -1,5 +1,5 @@
 /**
- * PinkPixel Theme Demo File 💖
+ * Pink Pixel VSCode Candy Themes Demo File 💖
  */
 
 import React, { useState, useEffect } from 'react';
@@ -18,7 +18,7 @@ const PI_VALUE = 3.14159;
 const IS_AWESOME = true;
 
 // String showcase - green/lime tones
-const welcomeMessage = "Welcome to PinkPixel Themes! 🌈";
+const welcomeMessage = "Welcome to Pink Pixel Themes! 🌈";
 const tagline = 'Dream it, Pixel it';
 
 /**
@@ -33,7 +33,7 @@ export const ThemeDemo: React.FC = () => {
   // Keywords showcase purple/magenta
   useEffect(() => {
     console.log(`Counter value: ${counter}`);
-    
+
     if (counter > MAGIC_NUMBER) {
       setIsActive(true);
     } else {
@@ -54,11 +54,11 @@ export const ThemeDemo: React.FC = () => {
     <div className="theme-demo">
       <h1>{welcomeMessage}</h1>
       <p className="subtitle">{tagline}</p>
-      
+
       <button onClick={handleClick}>
         Click Count: {counter}
       </button>
-      
+
       {isActive && (
         <div className="active-indicator">
           🎉 You reached the magic number!
@@ -71,11 +71,11 @@ export const ThemeDemo: React.FC = () => {
 // Class definition
 class ColorPalette {
   private colors: string[];
-  
+
   constructor(colors: string[]) {
     this.colors = colors;
   }
-  
+
   getRandomColor(): string {
     const index = Math.floor(Math.random() * this.colors.length);
     return this.colors[index];
@@ -85,7 +85,7 @@ class ColorPalette {
 // Export default
 export default ThemeDemo;
 
-/* 
+/*
   TODO: Add more theme features
   FIXME: Optimize performance
   NOTE: This is just a demo showcase

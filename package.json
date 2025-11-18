@@ -1,10 +1,32 @@
 {
-  "name": "pinkpixel-vscode-themes",
-  "displayName": "PinkPixel VSCode Themes",
-  "description": "Neon candy dark themes by Pink Pixel.",
+  "name": "pinkpixel-vscode-candy-themes",
+  "displayName": "Pink Pixel VSCode Candy Themes",
+  "description": "Neon candy dark themes for VSCode by Pink Pixel.",
   "version": "1.0.0",
   "publisher": "pinkpixel",
   "icon": "icon.png",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pinkpixel-dev/pinkpixel-vscode-candy-themes"
+  },
+  "homepage": "https://github.com/pinkpixel-dev/pinkpixel-vscode-candy-themes",
+  "bugs": {
+    "url": "https://github.com/pinkpixel-dev/pinkpixel-vscode-candy-themes/issues"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "neon",
+    "candy",
+    "cyberpunk",
+    "colorful",
+    "pink",
+    "purple",
+    "cyan",
+    "high contrast",
+    "accessibility"
+  ],
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -14,32 +36,32 @@
   "contributes": {
     "themes": [
       {
-        "label": "PinkPixel Candy Nebula",
+        "label": "Pink Pixel Candy Nebula",
         "uiTheme": "vs-dark",
         "path": "./themes/candy-nebula-color-theme.json"
       },
       {
-        "label": "PinkPixel Electric Sugarstorm",
+        "label": "Pink Pixel Electric Sugarstorm",
         "uiTheme": "vs-dark",
         "path": "./themes/electric-sugarstorm-color-theme.json"
       },
       {
-        "label": "PinkPixel Neon Lagoon",
+        "label": "Pink Pixel Neon Lagoon",
         "uiTheme": "vs-dark",
         "path": "./themes/neon-lagoon-color-theme.json"
       },
       {
-        "label": "PinkPixel Voltage Velvet",
+        "label": "Pink Pixel Voltage Velvet",
         "uiTheme": "vs-dark",
         "path": "./themes/voltage-velvet-color-theme.json"
       },
       {
-        "label": "PinkPixel Hyper Noir Contrast",
+        "label": "Pink Pixel Hyper Noir Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/hyper-noir-contrast-color-theme.json"
       },
       {
-        "label": "PinkPixel Photon Storm Contrast",
+        "label": "Pink Pixel Photon Storm Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/photon-storm-contrast-color-theme.json"
       }

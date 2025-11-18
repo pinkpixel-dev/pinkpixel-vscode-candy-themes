@@ -1,8 +1,8 @@
-# ✨ PinkPixel VSCode Themes
+# ✨ Pink Pixel VSCode Candy Themes
 
 <div align="center">
 
-<img src="logo.png" alt="PinkPixel Logo" width="300" />
+<img src="logo.png" alt="Pink Pixel Logo" width="350" />
 
 ![Version](https://img.shields.io/badge/version-1.0.0-ff4ecb?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%5E1.80.0-00f0ff?style=for-the-badge)
@@ -73,15 +73,15 @@ Bio-luminescent energy crackling through the darkness. High contrast with a sci-
 ### **From VS Code Marketplace** (Coming Soon)
 1. Open VS Code
 2. Go to **Extensions** (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-3. Search for **"PinkPixel VSCode Themes"**
+3. Search for **"Pink Pixel VSCode Candy Themes"**
 4. Click **Install**
 5. Open Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
 6. Select **"Preferences: Color Theme"**
-7. Choose your favorite PinkPixel theme! 🎉
+7. Choose your favorite Pink Pixel theme. ✨💖
 
 ### **Manual Installation** (For Development/Testing)
 1. Clone or download this repository
-2. Copy the `pinkpixel-vscode-themes` folder to your VS Code extensions directory:
+2. Copy the `pinkpixel-vscode-candy-themes` folder to your VS Code extensions directory:
    - **Windows:** `%USERPROFILE%\.vscode\extensions\`
    - **macOS:** `~/.vscode/extensions/`
    - **Linux:** `~/.vscode/extensions/`

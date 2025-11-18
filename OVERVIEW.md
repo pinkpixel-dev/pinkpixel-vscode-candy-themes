@@ -1,4 +1,4 @@
-# 📋 PinkPixel VSCode Themes - Project Overview
+# 📋 Pink Pixel VSCode Candy Themes - Project Overview
 
 **Date:** November 18, 2025  
 **Version:** 1.0.0  
@@ -8,7 +8,7 @@
 
 ## 🎯 Project Purpose
 
-**PinkPixel VSCode Themes** is a collection of vibrant, neon-inspired dark themes for Visual Studio Code. The extension provides developers with 6 distinct color schemes that blend candy-bright accents with deep, comfortable dark backgrounds. Each theme is meticulously crafted to reduce eye strain during long coding sessions while maintaining visual excitement and personality.
+**Pink Pixel VSCode Candy Themes** is a collection of vibrant, neon-inspired dark themes for Visual Studio Code. The extension provides developers with 6 distinct color schemes that blend candy-bright accents with deep, comfortable dark backgrounds. Each theme is meticulously crafted to reduce eye strain during long coding sessions while maintaining visual excitement and personality.
 
 This project aligns with the Pink Pixel brand aesthetic - modern, playful, and unapologetically colorful - offering themes that transform the coding environment into an immersive, visually stunning experience.
 
@@ -21,7 +21,7 @@ Pure Visual Studio Code theme extension (no runtime code)
 
 ### **Structure**
 ```
-pinkpixel-vscode-themes/
+pinkpixel-vscode-candy-themes/
 ├── .vscode/
 │   └── launch.json           # Debug configuration for extension development
 ├── themes/
@@ -124,9 +124,9 @@ All themes follow the VSCode Color Theme schema (`vscode://schemas/color-theme`)
 ### **Package Configuration**
 ```json
 {
-  "name": "pinkpixel-vscode-themes",
-  "displayName": "PinkPixel VSCode Themes",
-  "description": "Neon candy dark themes by Pink Pixel.",
+  "name": "pinkpixel-vscode-candy-themes",
+  "displayName": "Pink Pixel VSCode Candy Themes",
+  "description": "Neon candy dark themes for VSCode by Pink Pixel.",
   "version": "1.0.0",
   "publisher": "pinkpixel",
   "engines": {

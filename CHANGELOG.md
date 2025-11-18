@@ -1,6 +1,6 @@
 # 📝 Changelog
 
-All notable changes to the "PinkPixel VSCode Themes" extension will be documented in this file.
+All notable changes to the "Pink Pixel VSCode Candy Themes" extension will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 🎉 Initial Release
 
-The inaugural launch of **PinkPixel VSCode Themes** - bringing neon candy vibes to your code editor!
+The inaugural launch of **Pink Pixel VSCode Candy Themes** - bringing neon candy vibes to your code editor!
 
 ### ✨ Added
 
