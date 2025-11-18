@@ -2,7 +2,7 @@
   "name": "pinkpixel-vscode-candy-themes",
   "displayName": "Pink Pixel VSCode Candy Themes",
   "description": "Neon candy dark themes for VSCode by Pink Pixel.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "pinkpixel",
   "icon": "icon.png",
   "license": "Apache-2.0",
@@ -64,6 +64,11 @@
         "label": "Pink Pixel Photon Storm Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/photon-storm-contrast-color-theme.json"
+      },
+      {
+        "label": "Pink Pixel Cloudwerx Lab",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cloudwerx-lab-color-theme.json"
       }
     ]
   }

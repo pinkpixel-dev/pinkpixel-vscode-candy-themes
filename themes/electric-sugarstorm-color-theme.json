@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "PinkPixel Electric Sugarstorm",
+  "name": "Pink Pixel Electric Sugarstorm",
   "type": "dark",
   "colors": {
     "editor.background": "#0a0d10",

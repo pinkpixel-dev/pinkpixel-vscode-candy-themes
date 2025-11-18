@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "PinkPixel Neon Lagoon",
+  "name": "Pink Pixel Neon Lagoon",
   "type": "dark",
   "colors": {
     "editor.background": "#04121a",

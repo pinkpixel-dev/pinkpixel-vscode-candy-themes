@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "PinkPixel Voltage Velvet",
+  "name": "Pink Pixel Voltage Velvet",
   "type": "dark",
   "colors": {
     "editor.background": "#140117",

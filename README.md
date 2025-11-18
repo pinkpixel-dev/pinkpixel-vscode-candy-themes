@@ -4,13 +4,13 @@
 
 <img src="logo.png" alt="Pink Pixel Logo" width="350" />
 
-![Version](https://img.shields.io/badge/version-1.0.0-ff4ecb?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.1.0-ff4ecb?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%5E1.80.0-00f0ff?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-Apache%202.0-9bff2d?style=for-the-badge)
 
 **Dream it, Pixel it** 🌈
 
-A collection of 6 vibrant, neon-inspired dark themes that transform your coding experience into a candy-coated adventure through cyberspace.
+A collection of 7 vibrant, neon-inspired dark themes that transform your coding experience into a candy-coated adventure through cyberspace.
 
 [Install](#-installation) • [Themes](#-themes) • [Features](#-features) • [Contributing](#-contributing)
 
@@ -41,6 +41,14 @@ Dive into a tropical paradise where cyan waters meet lime shores. Refreshing and
 
 **Vibes:** Tropical • Refreshing • Aquatic  
 **Primary Colors:** Deep Teal • Bright Cyan • Lime Green • Coral Pink
+
+---
+
+### ☁️ **Cloudwerx Lab**
+Charcoal lab consoles accented with baby blues and soft whites inspired by the Cloudwerx desktop vibe. Calm, focused, and airy.
+
+**Vibes:** Serene • Modern • Airy  
+**Primary Colors:** Charcoal Gray • Powder Blue • Ice Blue • Soft White
 
 ---
 
@@ -134,6 +142,11 @@ Distinct status bar styling when debugging - you'll always know what mode you're
 
 ---
 
+### ☁️ Cloudwerx Lab
+<img src="screenshots/cloudwerx_lab.png" alt="Cloudwerx Lab Theme" width="700" />
+
+---
+
 ### ⚡ Voltage Velvet
 <img src="screenshots/voltage_velvet.png" alt="Voltage Velvet Theme" width="700" />
 
@@ -158,6 +171,7 @@ Distinct status bar styling when debugging - you'll always know what mode you're
 | Cosmic vibes, dreamy aesthetics | 🍬 **Candy Nebula** |
 | High energy, maximum intensity | ⚡ **Electric Sugarstorm** |
 | Tropical, refreshing colors | 🌊 **Neon Lagoon** |
+| Calm skies, baby blues & whites | ☁️ **Cloudwerx Lab** |
 | Retro-futuristic luxury | ⚡ **Voltage Velvet** |
 | Maximum contrast, accessibility | 🖤 **Hyper Noir Contrast** |
 | Sci-fi, Matrix aesthetic | 🌟 **Photon Storm Contrast** |

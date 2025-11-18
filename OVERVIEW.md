@@ -1,14 +1,14 @@
 # 📋 Pink Pixel VSCode Candy Themes - Project Overview
 
 **Date:** November 18, 2025  
-**Version:** 1.0.0  
+**Version:** 1.1.0  
 **Status:** ✅ Production Ready
 
 ---
 
 ## 🎯 Project Purpose
 
-**Pink Pixel VSCode Candy Themes** is a collection of vibrant, neon-inspired dark themes for Visual Studio Code. The extension provides developers with 6 distinct color schemes that blend candy-bright accents with deep, comfortable dark backgrounds. Each theme is meticulously crafted to reduce eye strain during long coding sessions while maintaining visual excitement and personality.
+**Pink Pixel VSCode Candy Themes** is a collection of vibrant, neon-inspired dark themes for Visual Studio Code. The extension now provides 7 distinct color schemes that blend candy-bright accents with deep, comfortable dark backgrounds. Each theme is meticulously crafted to reduce eye strain during long coding sessions while maintaining visual excitement and personality.
 
 This project aligns with the Pink Pixel brand aesthetic - modern, playful, and unapologetically colorful - offering themes that transform the coding environment into an immersive, visually stunning experience.
 
@@ -30,7 +30,8 @@ pinkpixel-vscode-candy-themes/
 │   ├── neon-lagoon-color-theme.json
 │   ├── voltage-velvet-color-theme.json
 │   ├── hyper-noir-contrast-color-theme.json
-│   └── photon-storm-contrast-color-theme.json
+│   ├── photon-storm-contrast-color-theme.json
+│   └── cloudwerx-lab-color-theme.json
 ├── package.json              # Extension manifest
 └── [documentation files]
 ```
@@ -111,6 +112,13 @@ All themes follow the VSCode Color Theme schema (`vscode://schemas/color-theme`)
 - **Primary Accent:** Lime/Cyan
 - **Vibe:** Bio-luminescent, sci-fi, Matrix-inspired energy
 
+### **7. Cloudwerx Lab** ☁️🧪
+**Palette:** Charcoal graphite workspace contrasted with baby blues, powder highlights, and crisp whites
+- **Editor Background:** `#0f141a` (charcoal gray)
+- **Cursor:** `#8ed8ff` (powder blue)
+- **Primary Accent:** Powder/Ice Blue
+- **Vibe:** Serene, modern, cloud-lab minimalism
+
 ---
 
 ## 🔧 Technical Details
@@ -127,7 +135,7 @@ All themes follow the VSCode Color Theme schema (`vscode://schemas/color-theme`)
   "name": "pinkpixel-vscode-candy-themes",
   "displayName": "Pink Pixel VSCode Candy Themes",
   "description": "Neon candy dark themes for VSCode by Pink Pixel.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "pinkpixel",
   "engines": {
     "vscode": "^1.80.0"
@@ -137,7 +145,7 @@ All themes follow the VSCode Color Theme schema (`vscode://schemas/color-theme`)
 ```
 
 ### **Theme Contribution**
-All 6 themes are registered in `package.json` under `contributes.themes` with:
+All 7 themes are registered in `package.json` under `contributes.themes` with:
 - **Label:** User-facing theme name
 - **uiTheme:** `vs-dark` (all themes are dark variants)
 - **Path:** Relative path to theme JSON file
@@ -155,7 +163,7 @@ This is a pure theme extension with no TypeScript/JavaScript code, no dependenci
 Extension manifest containing metadata, VS Code version requirements, publisher info, and theme contributions.
 
 #### `themes/*.json`
-Six individual theme files, each containing comprehensive UI color definitions and token color mappings following the VSCode Color Theme schema.
+Seven individual theme files, each containing comprehensive UI color definitions and token color mappings following the VSCode Color Theme schema.
 
 #### `.vscode/launch.json`
 Debug configuration for testing the extension in the Extension Development Host.
@@ -171,7 +179,7 @@ Debug configuration for testing the extension in the Extension Development Host.
 
 ## 🎯 Key Features
 
-✅ **6 Distinct Themes** - Comprehensive variety from cosmic purple to high-contrast noir  
+✅ **7 Distinct Themes** - Comprehensive variety from cosmic purple to serene cloud labs  
 ✅ **Complete UI Coverage** - Every VS Code interface element is themed, including AI chat interfaces  
 ✅ **Full Terminal Support** - Custom ANSI color palettes (16 colors each) for immersive terminal experiences  
 ✅ **Markdown Optimized** - Special styling for headings, bold, italic, quotes, and code blocks  

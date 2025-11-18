@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.0] - 2025-11-18
+
+### ✨ Added
+- ☁️ **Cloudwerx Lab** theme featuring charcoal greys with baby-blue and white accents for a serene cloud-lab aesthetic
+- 🖼️ Screenshot and documentation updates in `README.md` and `OVERVIEW.md` to showcase the new theme
+
+### 🔧 Changed
+- 📦 Bumped extension version to `1.1.0` to include the new Cloudwerx Lab experience
+
+---
+
 ## [1.0.0] - 2025-11-18
 
 ### 🎉 Initial Release
