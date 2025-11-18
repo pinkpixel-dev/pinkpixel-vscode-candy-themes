@@ -1,0 +1,48 @@
+{
+  "name": "pinkpixel-vscode-themes",
+  "displayName": "PinkPixel VSCode Themes",
+  "description": "Neon candy dark themes by Pink Pixel.",
+  "version": "1.0.0",
+  "publisher": "pinkpixel",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PinkPixel Candy Nebula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/candy-nebula-color-theme.json"
+      },
+      {
+        "label": "PinkPixel Electric Sugarstorm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/electric-sugarstorm-color-theme.json"
+      },
+      {
+        "label": "PinkPixel Neon Lagoon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-lagoon-color-theme.json"
+      },
+      {
+        "label": "PinkPixel Voltage Velvet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/voltage-velvet-color-theme.json"
+      },
+      {
+        "label": "PinkPixel Hyper Noir Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hyper-noir-contrast-color-theme.json"
+      },
+      {
+        "label": "PinkPixel Photon Storm Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/photon-storm-contrast-color-theme.json"
+      }
+    ]
+  }
+}
